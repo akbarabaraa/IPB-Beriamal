@@ -1,0 +1,18 @@
+.single-vol .content .content-overlay{
+	background-image: -webkit-linear-gradient(0deg, #BF3711 0%, #80250B 45%, #FF4917 100%);
+}
+.clock_sec, .head-btn:hover, .callto-wrap{
+		background-image: -webkit-linear-gradient(0deg, #BF3711 0%, #80250B 45%, #FF4917 100%);
+}
+.default-header {
+    background-color: #fff;
+    padding: 20px 0;
+    width: 100% !important;
+    box-shadow: -21.213px 21.213px 30px 0px rgba(158,158,158,0.3);
+}
+.banner-area {
+    background: url(../img/header-bg.jpg) no-repeat center center/cover;
+}
+.relative {
+    position: relative;
+}
