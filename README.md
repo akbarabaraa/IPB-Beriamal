@@ -1,0 +1,2 @@
+# IPB-Beriamal
+"BERIAMAL" is a website that offers some features such as charity activities, besides that we can give our charity according to what we want and also this website helps people who are in need even though they did’nt know each other before. My responsible is designing the website including mock up, wireframing until the UI design and developing frontend website. This website is one of the final projects in semester 4th
